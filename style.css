@@ -1,0 +1,21 @@
+/* .body{
+    background-color: red;
+} */
+
+/* #cv-form {
+     display: none;
+} */
+
+#cv-tamplate {
+    display: none;
+}
+
+.myimage {
+    border: 2px solid black;
+    border-radius: 50%;
+    width: 200px;
+}
+
+.background {
+    background-color: rgba(246, 54, 246, 0.717);
+}
